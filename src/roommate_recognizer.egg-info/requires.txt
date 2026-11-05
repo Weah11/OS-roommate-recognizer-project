@@ -1,6 +1,0 @@
-opencv-python
-numpy
-python-dotenv
-pandas
-matplotlib
-psutil
